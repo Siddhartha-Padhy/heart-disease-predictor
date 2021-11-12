@@ -1,1 +1,2 @@
 # heart-disease-predictor
+This Machine Learning project is trained to predict whether a patient will suffer from a heart disease using the data of condition of the patient with an accuracy of 88%. This model requires some data to train and test.This training and testing data has already been provided in the excel file "heart". Here SVM model has been used. The dataset path should be mentioned in the read_csv function (if different). Some modules of python are also required ie. tensorflow,numpy,pandas,sklearn,matplotlib,seaborn
